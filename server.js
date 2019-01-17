@@ -9,7 +9,7 @@ const HOST = '0.0.0.0';
 // App
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Hello world\n');
+  res.send('Muhammad Tehami Azhar\nBSSE-Software Engineer\nPassionate in Blockchain Technologies');
 });
 
 app.listen(PORT, HOST);
